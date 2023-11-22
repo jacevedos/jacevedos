@@ -33,17 +33,22 @@ Además de mi experiencia principal, tengo habilidades en otros lenguajes de pro
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
-### Herramientas de desarrollo
+## Herramientas de desarrollo
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+
+## Progreso
+[![GitHub Streak](https://streak-stats.demolab.com?user=jacevedos&locale=es&mode=weekly)](https://git.io/streak-stats)
+<br>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacevedos&layout=donut&locale=es)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ¡Estoy emocionado por seguir creciendo como desarrollador y contribuir a proyectos innovadores!
 
 Si tienes alguna pregunta o deseas colaborar en un proyecto, no dudes en contactarme.
 <div>
   <a href="mailto:juanjose_a_c@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/>
   </a><br />
   <a href="https://www.linkedin.com/in/juan-jose-acevedo-serna/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
